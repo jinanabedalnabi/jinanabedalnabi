@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jinan
 - 👀 I’m interested in reading books , front end development  
 - 🌱 I’m currently learning web development 
-- ⚡ Fun fact: love nooooodeles 
+
 
 <!---
 jinanabedalnabi/jinanabedalnabi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
